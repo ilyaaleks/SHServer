@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  Client.cpp
+D:\5sem\SH_SETI\Laba10\ConcurrentServer\Client\Client.cpp(82): warning C4172:  возвращение адреса локальной или временной переменной : echo
+D:\5sem\SH_SETI\Laba10\ConcurrentServer\Client\Client.cpp(83): warning C4172:  возвращение адреса локальной или временной переменной : time
+D:\5sem\SH_SETI\Laba10\ConcurrentServer\Client\Client.cpp(84): warning C4172:  возвращение адреса локальной или временной переменной : rand
+D:\5sem\SH_SETI\Laba10\ConcurrentServer\Client\Client.cpp(86): warning C4172:  возвращение адреса локальной или временной переменной : r
+  Client.vcxproj -> D:\5sem\SH_SETI\Laba10\ConcurrentServer\Debug\Client.exe

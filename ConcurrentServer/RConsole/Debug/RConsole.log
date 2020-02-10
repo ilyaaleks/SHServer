@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  RConsole.cpp
+D:\5sem\SH_SETI\Laba10\ConcurrentServer\RConsole\RConsole.cpp(26,6): warning C4101:  n: неиспользованная локальная переменная
+  RConsole.vcxproj -> D:\5sem\SH_SETI\Laba10\ConcurrentServer\Debug\RConsole.exe
